@@ -67,10 +67,11 @@ li {
 }
 
 border-radius {
-  border-radius: 10px;
+  border-radius: 100px;
   color: white;
   background: #c71585;
   margin: 0 30px;
+  padding: 5px 50px;
 }
 .news-content {
   font-size: 1vw;
