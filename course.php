@@ -1,3 +1,2 @@
 <?php
-$item = "JavaScript";
-print $item;
+phpinfo();
